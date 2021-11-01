@@ -1,0 +1,13 @@
+body{
+    background: rgb(224,78,172);
+    background: linear-gradient(90deg, rgba(224,78,172,1) 49%, rgba(32,186,242,1) 52%); 
+}
+.bg-propio{
+background-image: url('/imagenes/Estudiando.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 65%;
+}
+.formulario{
+        background-color: rgb(255, 255, 255);
+}
